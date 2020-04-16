@@ -1,0 +1,53 @@
+/**Colors to use
+#101935 dark blue
+#9AD4D6 Light green
+#F2FDFF offwhite
+#DBCBD8 Light pink
+#564787 light purple
+ **/
+
+body{
+    font-family: sans-serif;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color:#101935;
+    color: #DBCBD8;
+    text-align: center;
+    padding: 25px 0px;
+    margin-bottom: 25px;
+
+}
+
+main{
+    background-color: #F2FDFF;
+    width: 950px;
+    padding: 25px;
+    border: solid #DBCBD8 5px;
+    margin: 0 auto;
+    
+}
+
+img{
+    width: 950px;
+}
+
+footer{
+    background-color: #101935;
+    color: #DBCBD8;
+    padding: 25px ;
+    margin-top: 25px;
+    font-size: 14px;
+    
+}
+
+.footer-content{
+    width: 750px;
+    margin: 0 auto;
+}
+
+h2,h3{
+    color: #564787;
+}
